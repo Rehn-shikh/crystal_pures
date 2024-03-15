@@ -29,7 +29,7 @@ html{
 
 body{
   font-family: "IBM Plex Mono", monospace;
-  background-color: #000;
+  /* background-color: #000; */
   color: #fff;
 }
 
@@ -41,6 +41,10 @@ svg{
   display: block;
   max-width: 100%;
   user-select: none;
+}
+
+hr{
+  color: rgb(58, 62, 62);
 }
 
 

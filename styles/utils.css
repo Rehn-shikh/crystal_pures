@@ -34,7 +34,7 @@
     font-weight: 600;
     text-decoration: none;
     letter-spacing: -0.05em;
-    padding: 0.5em 1rem;
+    padding: 0.5em 0.5em;
     border-radius: 6px;
 }
 
@@ -48,7 +48,7 @@
     margin-right: auto;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
 }
 .section{

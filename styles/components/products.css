@@ -1,0 +1,39 @@
+.products{
+    background-color: rgb(19, 19, 19);
+    padding-top:1.5rem;
+    padding-bottom:1.5rem;
+}
+
+.products__container{
+    height: 20rem;
+}
+
+
+.products__title{
+    color: white;
+    padding-left: 1em;
+    padding-top:0.5em;
+    /* border: 1px solid red; */
+    width: 100%;
+}
+
+.product__cards{
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    margin-top: 1em;
+}
+
+.cards{
+    height: 15rem;
+    width: 13rem;
+    border-radius: 13px;
+    overflow: hidden;
+    /* border: 1px solid red; */
+    position: relative;
+}
+
+.card__text{
+    position: absolute;
+    top: 5%;
+}
